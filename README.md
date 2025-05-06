@@ -32,7 +32,7 @@ soundness-cli export-key --name my-key
 ```
 ## ➖ Save your Phrase and Pub-Key
 ## ➖ Join Discord (https://discord.gg/soundnesslabs)
-## ➖ Go to #Testnet-access > Submit your Pub-Key
+## ➖ Head to ⁠🐬│soundness-cockpit and use the /access command to submit your public key.
 ##✅ Done!
 
 ## Details: 
