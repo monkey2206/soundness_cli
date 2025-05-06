@@ -31,7 +31,7 @@ soundness-cli generate-key --name my-key
 soundness-cli export-key --name my-key
 ```
 ## ➖ Save your Phrase and Pub-Key
-## ➖ Join Discord (https://discord.gg/NbStGdsh)
+## ➖ Join Discord (https://discord.gg/soundnesslabs)
 ## ➖ Go to #Testnet-access > Submit your Pub-Key
 ##✅ Done!
 
